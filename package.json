@@ -1,0 +1,23 @@
+{
+  "name": "test-gulp-shrinkwrap-release",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Test for gulp-shrinkwrap-release",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gseguin/test-gulp-shrinkwrap-release.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Ghislain Seguin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gseguin/test-gulp-shrinkwrap-release/issues"
+  },
+  "homepage": "https://github.com/gseguin/test-gulp-shrinkwrap-release#readme"
+}
