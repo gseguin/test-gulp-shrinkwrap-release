@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/gseguin/test-gulp-shrinkwrap-release#readme",
   "devDependencies": {
+    "gulp": "^3.9.0",
     "gulp-shrinkwrap-release": "../gulp-shrinkwrap-release"
   }
 }
