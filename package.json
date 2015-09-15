@@ -1,7 +1,7 @@
 {
   "name": "test-gulp-shrinkwrap-release",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Test for gulp-shrinkwrap-release",
   "main": "index.js",
   "scripts": {
