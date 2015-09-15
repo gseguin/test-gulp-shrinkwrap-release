@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/gseguin/test-gulp-shrinkwrap-release/issues"
   },
-  "homepage": "https://github.com/gseguin/test-gulp-shrinkwrap-release#readme"
+  "homepage": "https://github.com/gseguin/test-gulp-shrinkwrap-release#readme",
+  "devDependencies": {
+    "gulp-shrinkwrap-release": "../gulp-shrinkwrap-release"
+  }
 }
